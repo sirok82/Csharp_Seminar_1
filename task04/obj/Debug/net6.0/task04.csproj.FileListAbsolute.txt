@@ -1,0 +1,15 @@
+D:\0 GB Обучение\03 Знакомство с яыками програмирования\Семинары ЯП\HomeCsharp_01\task04\obj\Debug\net6.0\task04.csproj.AssemblyReference.cache
+D:\0 GB Обучение\03 Знакомство с яыками програмирования\Семинары ЯП\HomeCsharp_01\task04\obj\Debug\net6.0\task04.GeneratedMSBuildEditorConfig.editorconfig
+D:\0 GB Обучение\03 Знакомство с яыками програмирования\Семинары ЯП\HomeCsharp_01\task04\obj\Debug\net6.0\task04.AssemblyInfoInputs.cache
+D:\0 GB Обучение\03 Знакомство с яыками програмирования\Семинары ЯП\HomeCsharp_01\task04\obj\Debug\net6.0\task04.AssemblyInfo.cs
+D:\0 GB Обучение\03 Знакомство с яыками програмирования\Семинары ЯП\HomeCsharp_01\task04\obj\Debug\net6.0\task04.csproj.CoreCompileInputs.cache
+D:\0 GB Обучение\03 Знакомство с яыками програмирования\Семинары ЯП\HomeCsharp_01\task04\bin\Debug\net6.0\task04.exe
+D:\0 GB Обучение\03 Знакомство с яыками програмирования\Семинары ЯП\HomeCsharp_01\task04\bin\Debug\net6.0\task04.deps.json
+D:\0 GB Обучение\03 Знакомство с яыками програмирования\Семинары ЯП\HomeCsharp_01\task04\bin\Debug\net6.0\task04.runtimeconfig.json
+D:\0 GB Обучение\03 Знакомство с яыками програмирования\Семинары ЯП\HomeCsharp_01\task04\bin\Debug\net6.0\task04.dll
+D:\0 GB Обучение\03 Знакомство с яыками програмирования\Семинары ЯП\HomeCsharp_01\task04\bin\Debug\net6.0\task04.pdb
+D:\0 GB Обучение\03 Знакомство с яыками програмирования\Семинары ЯП\HomeCsharp_01\task04\obj\Debug\net6.0\task04.dll
+D:\0 GB Обучение\03 Знакомство с яыками програмирования\Семинары ЯП\HomeCsharp_01\task04\obj\Debug\net6.0\refint\task04.dll
+D:\0 GB Обучение\03 Знакомство с яыками програмирования\Семинары ЯП\HomeCsharp_01\task04\obj\Debug\net6.0\task04.pdb
+D:\0 GB Обучение\03 Знакомство с яыками програмирования\Семинары ЯП\HomeCsharp_01\task04\obj\Debug\net6.0\task04.genruntimeconfig.cache
+D:\0 GB Обучение\03 Знакомство с яыками програмирования\Семинары ЯП\HomeCsharp_01\task04\obj\Debug\net6.0\ref\task04.dll
